@@ -16,6 +16,7 @@ I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy cre
   
 <details>
 <summary>Favorite resources to learn</summary>
+  
 - [PointFree](https://www.pointfree.co/)
 - [Swift](https://docs.swift.org/swift-book)
 - [Hacking with Swift](https://www.hackingwithswift.com)
@@ -24,6 +25,7 @@ I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy cre
 - [Kodeco](https://www.kodeco.com)
 - [Talk Objc](https://talk.objc.io)
 - [Swift by Sundell](https://www.swiftbysundell.com)
+  
 </details>
   
 <details>
