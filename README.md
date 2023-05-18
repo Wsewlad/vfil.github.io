@@ -7,11 +7,11 @@ I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy cre
   
 ## 🌱 Skills
 
-- Swift, SwiftUI, Redux
+- Swift, SwiftUI, Redux / MVVM
 - Combine, async/await
 - Xcode, Figma, Swagger
 - SPM, Git
-- Snapshot testing
+- Unit, UI and Snapshot testing
 - Some HTML and CSS basics
   
 <details>
