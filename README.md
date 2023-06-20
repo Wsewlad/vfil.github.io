@@ -1,18 +1,22 @@
 # Hi there! 👋
 
-I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy creating beautiful and user-friendly interfaces that deliver great user experiences.
+I'm a passionate Software Engineer with experience in iOS development (SwiftUI) and automation (Python, RPA). I enjoy creating beautiful and user-friendly interfaces that deliver great user experiences.
 
 <details>
 <summary>👨🏼‍💻 About me</summary>
   
 ## 🌱 Skills
-
+**iOS**
 - Swift, SwiftUI, Redux / MVVM
 - Combine, async/await
 - Xcode, Figma, Swagger
 - SPM, Git
 - Unit, UI and Snapshot testing
-- Some HTML and CSS basics
+
+**Automation**
+- Python, Selenium, Robocorp Frameworks, POM
+- VSCode, PiP
+- HTML, CSS
   
 <details>
 <summary>Favorite resources to learn</summary>
@@ -25,6 +29,7 @@ I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy cre
 - [Kodeco](https://www.kodeco.com)
 - [Talk Objc](https://talk.objc.io)
 - [Swift by Sundell](https://www.swiftbysundell.com)
+- [w3schools](https://www.w3schools.com/)
   
 </details>
   
@@ -41,10 +46,10 @@ I'm a passionate iOS developer with experience in Swift and SwiftUI. I enjoy cre
 
 ## 🏕️ Interests
 
-- 📱 iOS app development
-- 🧑‍💻👨🏼‍💻 Helping others learn to code
+- 📱 iOS development
+- 🤖 Automation
 - 💻 Exploring new frameworks and technologies
-- 🤖 Automation of routine processes
+- 🏃 Sport
 - 🌍 Traveling
 <details>
 <summary>🗺️</summary>
