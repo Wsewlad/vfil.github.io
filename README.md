@@ -1,11 +1,16 @@
 # Hi there! 👋
 
-I'm a passionate Software Engineer with experience in iOS development (SwiftUI) and automation (Python, RPA). I enjoy creating beautiful and user-friendly interfaces that deliver great user experiences.
+I'm a passionate Software Engineer with experience in automation (Python, RPA) and iOS development (SwiftUI). I enjoy creating beautiful and user-friendly interfaces that deliver great user experiences and automate all the boring staff.
 
 <details>
 <summary>👨🏼‍💻 About me</summary>
   
 ## 🌱 Skills
+**Automation**
+- Python, Selenium, Robocorp Frameworks, POM
+- PyCharm, Github Copilot, ChatGPT, Postman
+- HTML, CSS
+  
 **iOS**
 - Swift, SwiftUI, Redux / MVVM
 - Combine, async/await
@@ -13,13 +18,15 @@ I'm a passionate Software Engineer with experience in iOS development (SwiftUI) 
 - SPM, Git
 - Unit, UI and Snapshot testing
 
-**Automation**
-- Python, Selenium, Robocorp Frameworks, POM
-- VSCode, PiP
-- HTML, CSS
-  
 <details>
-<summary>Favorite resources to learn</summary>
+<summary>Favorite resources to learn Python and Automation</summary>
+  
+- [w3schools](https://www.w3schools.com/)
+  
+</details>
+
+<details>
+<summary>Favorite resources to learn iOS</summary>
   
 - [PointFree](https://www.pointfree.co/)
 - [Swift](https://docs.swift.org/swift-book)
@@ -29,7 +36,6 @@ I'm a passionate Software Engineer with experience in iOS development (SwiftUI) 
 - [Kodeco](https://www.kodeco.com)
 - [Talk Objc](https://talk.objc.io)
 - [Swift by Sundell](https://www.swiftbysundell.com)
-- [w3schools](https://www.w3schools.com/)
   
 </details>
   
@@ -38,7 +44,7 @@ I'm a passionate Software Engineer with experience in iOS development (SwiftUI) 
 
 | Language  | Level       |
 |:-----     |-----------  |
-|English    |Intermediate |
+|English    |Advanced |
 |German     |Beginner     |
 |Ukranian   |Native       |
 
@@ -46,8 +52,8 @@ I'm a passionate Software Engineer with experience in iOS development (SwiftUI) 
 
 ## 🏕️ Interests
 
-- 📱 iOS development
 - 🤖 Automation
+- 📱 iOS development
 - 💻 Exploring new frameworks and technologies
 - 🏃 Sport
 - 🌍 Traveling
