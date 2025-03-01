@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate Software Engineer with experience in automation (Python, RPA) and iOS development (SwiftUI). I enjoy creating beautiful and user-friendly interfaces that deliver great user experiences and automate all the boring staff.
+I'm a passionate Software Engineer with experience in automation (Python, RPA). I enjoy automating all the boring staff.
 
 <details>
 <summary>👨🏼‍💻 About me</summary>
@@ -10,13 +10,6 @@ I'm a passionate Software Engineer with experience in automation (Python, RPA) a
 - Python, Selenium, Robocorp Frameworks, POM
 - PyCharm, Github Copilot, ChatGPT, Postman
 - HTML, CSS
-  
-**iOS**
-- Swift, SwiftUI, Redux / MVVM
-- Combine, async/await
-- Xcode, Figma, Swagger
-- SPM, Git
-- Unit, UI and Snapshot testing
 
 <details>
 <summary>Favorite resources to learn Python and Automation</summary>
@@ -25,19 +18,6 @@ I'm a passionate Software Engineer with experience in automation (Python, RPA) a
   
 </details>
 
-<details>
-<summary>Favorite resources to learn iOS</summary>
-  
-- [PointFree](https://www.pointfree.co/)
-- [Swift](https://docs.swift.org/swift-book)
-- [Hacking with Swift](https://www.hackingwithswift.com)
-- [Apple videos](https://developer.apple.com/videos)
-- [Kavsoft videos](https://www.youtube.com/@Kavsoft)
-- [Kodeco](https://www.kodeco.com)
-- [Talk Objc](https://talk.objc.io)
-- [Swift by Sundell](https://www.swiftbysundell.com)
-  
-</details>
   
 <details>
 <summary>I speak</summary>
@@ -53,7 +33,6 @@ I'm a passionate Software Engineer with experience in automation (Python, RPA) a
 ## 🏕️ Interests
 
 - 🤖 Automation
-- 📱 iOS development
 - 💻 Exploring new frameworks and technologies
 - 🏃 Sport
 - 🌍 Traveling
